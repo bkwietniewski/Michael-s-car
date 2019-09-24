@@ -15,7 +15,7 @@ A simple game that was created for the needs of a student project.
 ![Level1 example](./docs/img/level1.jpg)
 ![Level2 example](./docs/img/level2.jpg)
 ![Level3 example](./docs/img/level3.jpg)
-![End example](./docs/img/level1.jpg)
+![End example](./docs/img/end.jpg)
 
 ## Technologies
 * Java 7
